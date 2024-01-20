@@ -12,10 +12,7 @@ The Restaurant Management App is a sophisticated Windows Forms application tailo
 ## Demo
 To see the Restaurant Management App in action, check out our demonstration video:
 
-https://github.com/diogoazevedoo/RestaurantManagmentApp/assets/88426589/e726e871-2299-4031-b973-4744374c4078
-
-
-
+https://github.com/diogoazevedoo/RestaurantManagementApp/assets/88426589/de6bfbda-9aa8-4182-be50-399ac35a6608
 
 ## Acknowledgements
 This project was made possible thanks to:
